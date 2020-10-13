@@ -16,7 +16,7 @@ To run locally, do the usual:
 
 #. Configure the templatefile and staticfile inside settings.py 
 
-#.Create template folder and static folder, inside static folder create css folder and image folder, insert tghe required images, Here sqlite used as default database
+#.Create template folder and static folder, inside static folder create css folder and image folder, insert the required images, Here sqlite used as default database
 
 #. Create 4 different model class for 4 different cities with attributes
 
